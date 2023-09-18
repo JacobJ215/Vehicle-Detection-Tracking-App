@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+ultralytics
+super-gradients
+supervision
+roboflow
+opencv-python
+streamlit
+filterpy
+scikit-image
