@@ -1,9 +1,7 @@
 # Vehicle Detection + Tracking App
 ![](images/vehicle_tracking.gif)
 ## Overview
-This repository contains a Streamlit web application for vehicle tracking using different SOTA object detection models. The app offers two options: YOLO-NAS with SORT tracking and YOLOv8 with ByteTrack and Supervision tracking. It enables users to upload a video file, set confidence levels, and visualize the tracking results in real-time. This app is available via Streamlit Cloud please click the following link to demo the app.
-
-**Demo:** (Vehicle Detection + Tracking App)[]
+This repository contains a Streamlit web application for vehicle tracking using different SOTA object detection models. The app offers two options: YOLO-NAS with SORT tracking and YOLOv8 with ByteTrack and Supervision tracking. It enables users to upload a video file, set confidence levels, and visualize the tracking results in real-time. 
 
 ## Technologies Used
 - Python
