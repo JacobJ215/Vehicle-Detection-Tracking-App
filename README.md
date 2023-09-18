@@ -71,7 +71,7 @@ This repository contains a Streamlit web application for vehicle tracking using 
 - Utilizes an anchor-free detection system for more accurate predictions.
 - Incorporates new convolutional blocks for improved performance.
 - Implements Mosaic Augmentation for enhanced training.
-- Comes with a user-friendly CLI and Python package for ease of use.
+
 
 ## ByteTrack and SORT Tracking
 - ByteTrack and SORT are advanced online multi-object tracking algorithms that complement YOLO-based object detection models.
