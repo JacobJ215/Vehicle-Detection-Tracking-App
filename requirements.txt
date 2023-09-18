@@ -5,7 +5,7 @@ ultralytics
 super-gradients
 supervision
 roboflow
-opencv-python
+opencv-python-headless==4.8.0.76
 streamlit
 filterpy
 scikit-image
